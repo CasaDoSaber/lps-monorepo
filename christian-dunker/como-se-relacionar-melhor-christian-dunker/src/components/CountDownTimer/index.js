@@ -36,8 +36,8 @@ function CountDownTimer() {
     }
 
     timerComponents.push(
-      <S.TimeBlock>
-        <span key={index}>{timeLeft[interval]}</span>
+      <S.TimeBlock key={index}>
+        <span >{timeLeft[interval]}</span>
         <span>{interval.toUpperCase()} </span>
       </S.TimeBlock>
     );

@@ -58,7 +58,7 @@ const Hero = () => {
       </S.DetailsWrapper>
       <S.HeroWrapper>
         <S.Hero
-          src="/static/img/hero.webp"
+          src="/como-melhorar-relacoes/static/img/hero.webp"
           alt="Foto de Christian Dunker sorrindo"
         ></S.Hero>
         <S.BlueRectangle></S.BlueRectangle>

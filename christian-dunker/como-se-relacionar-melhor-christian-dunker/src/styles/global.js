@@ -4,70 +4,70 @@ const GlobalStyles = createGlobalStyle`
 
   @font-face {
     font-family: "MaisonNeue";
-    src: url("/static/fonts/Maison/MaisonNeue-Light.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeue-Light.otf");
     font-style: normal;
     font-weight: 100;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeue";
-    src: url("/static/fonts/Maison/MaisonNeue-Medium.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeue-Medium.otf");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeue";
-    src: url("/static/fonts/Maison/MaisonNeue-Bold.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeue-Bold.otf");
     font-style: bold;
     font-weight: 700;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeue";
-    src: url("/static/fonts/Maison/MaisonNeue-ExtraBold.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeue-ExtraBold.otf");
     font-style: normal;
     font-weight: 900;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeueExtended";
-    src: url("/static/fonts/Maison/MaisonNeueExtended-Light.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeueExtended-Light.otf");
     font-style: normal;
     font-weight: 100;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeueExtended";
-    src: url("/static/fonts/Maison/MaisonNeueExtended-Medium.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeueExtended-Medium.otf");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeueExtended";
-    src: url("/static/fonts/Maison/MaisonNeueExtended-Demi.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeueExtended-Demi.otf");
     font-style: normal;
     font-weight: 700;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeueExtended";
-    src: url("/static/fonts/Maison/MaisonNeueExtended-Bold.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeueExtended-Bold.otf");
     font-style: normal;
     font-weight: 900;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeueBook";
-    src: url("/static/fonts/Maison/MaisonNeue-Book.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeue-Book.otf");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
   }
   @font-face {
     font-family: "MaisonNeueExtendedBook";
-    src: url("/static/fonts/Maison/MaisonNeueExtended-Book.otf");
+    src: url("/como-melhorar-relacoes/static/fonts/Maison/MaisonNeueExtended-Book.otf");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
@@ -76,35 +76,35 @@ const GlobalStyles = createGlobalStyle`
 
   @font-face {
     font-family: "NibPro";
-    src: url("/static/fonts/NibPro/NibPro-Light.ttf");
+    src: url("/como-melhorar-relacoes/static/fonts/NibPro/NibPro-Light.ttf");
     font-style: normal;
     font-weight: 100;
     font-display: swap;
   }
   @font-face {
     font-family: "NibPro";
-    src: url("/static/fonts/NibPro/NibPro-Regular.ttf");
+    src: url("/como-melhorar-relacoes/static/fonts/NibPro/NibPro-Regular.ttf");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
   }
   @font-face {
     font-family: "NibPro";
-    src: url("/static/fonts/NibPro/NibPro-SemiBold.ttf");
+    src: url("/como-melhorar-relacoes/static/fonts/NibPro/NibPro-SemiBold.ttf");
     font-style: normal;
     font-weight: 700;
     font-display: swap;
   }
   @font-face {
     font-family: "NibPro";
-    src: url("/static/fonts/NibPro/NibPro-Bold.ttf");
+    src: url("/como-melhorar-relacoes/static/fonts/NibPro/NibPro-Bold.ttf");
     font-style: normal;
     font-weight: 900;
     font-display: swap;
   }
   @font-face {
     font-family: "NibPro";
-    src: url("/static/fonts/NibPro/NibPro-BoldItalic.ttf");
+    src: url("/como-melhorar-relacoes/static/fonts/NibPro/NibPro-BoldItalic.ttf");
     font-style: italic;
     font-weight: 900;
     font-display: swap;

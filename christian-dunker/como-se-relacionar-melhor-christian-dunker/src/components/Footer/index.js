@@ -14,23 +14,23 @@ const Footer = forwardRef((props, ref ) => {
 
   const socialNetworks = [
     {
-      src: '/static/img/iconFacebook.svg',
+      src: '/como-melhorar-relacoes/static/img/iconFacebook.svg',
       href: links.facebook,
     },
     {
-      src: '/static/img/iconInstagram.svg',
+      src: '/como-melhorar-relacoes/static/img/iconInstagram.svg',
       href: links.instagram,
     },
     {
-      src: '/static/img/iconLinkedin.svg',
+      src: '/como-melhorar-relacoes/static/img/iconLinkedin.svg',
       href: links.linkedin,
     },
     {
-      src: '/static/img/iconYoutube.svg',
+      src: '/como-melhorar-relacoes/static/img/iconYoutube.svg',
       href: links.youtube,
     },
     {
-      src: '/static/img/iconTwitter.svg',
+      src: '/como-melhorar-relacoes/static/img/iconTwitter.svg',
       href: links.twitter,
     },
   ];

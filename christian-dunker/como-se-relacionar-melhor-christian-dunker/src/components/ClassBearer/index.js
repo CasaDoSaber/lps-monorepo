@@ -4,7 +4,7 @@ import * as S from './styles';
 const ClassBearer = () => {
   const aulas = [
     {
-      icon: '/static/img/aula1.svg',
+      icon: '/como-melhorar-relacoes/static/img/aula1.svg',
       aula: 'AULA 1',
       title: 'A PARTILHA DOS AFETOS',
       description:
@@ -12,7 +12,7 @@ const ClassBearer = () => {
       date: 'Segunda-feira, 26 de abril às 20h',
     },
     {
-      icon: '/static/img/aula2.svg',
+      icon: '/como-melhorar-relacoes/static/img/aula2.svg',
       aula: 'AULA 2',
       title: 'O PODER DA ESCUTA',
       description:
@@ -20,7 +20,7 @@ const ClassBearer = () => {
       date: 'Terça-feira, 27 de abril às 20h',
     },
     {
-      icon: '/static/img/aula3.svg',
+      icon: '/como-melhorar-relacoes/static/img/aula3.svg',
       aula: 'AULA 3',
       title: 'O MEDO E O SOFRIMENTO',
       description:
@@ -28,7 +28,7 @@ const ClassBearer = () => {
       date: 'Quarta-feira, 28 de abril às 20h',
     },
     {
-      icon: '/static/img/aula4.svg',
+      icon: '/como-melhorar-relacoes/static/img/aula4.svg',
       aula: 'AULA 4',
       title: 'O AMOR E SUAS TRANSFORMAÇÕES',
       description:

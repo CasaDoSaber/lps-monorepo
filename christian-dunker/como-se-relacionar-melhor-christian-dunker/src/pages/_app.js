@@ -29,9 +29,9 @@ function App({ Component, pageProps }) {
       <Head>
         <title>Casa do Saber</title>
         {/* <link rel="stylesheet" type="text/css" href="/nprogress.css" /> */}
-        <link rel="shortcut icon" href="/static/img/favicon.ico" />
-        <link rel="apple-touch-icon" href="/static/img/hero.jpg" />
-        <meta property="og:image" content="/static/img/hero.jpg"></meta>
+        <link rel="shortcut icon" href="/como-melhorar-relacoes/static/img/favicon.ico" />
+        <link rel="apple-touch-icon" href="/como-melhorar-relacoes/static/img/hero.jpg" />
+        <meta property="og:image" content="/como-melhorar-relacoes/static/img/hero.jpg"></meta>
 
         <meta
           property="og:title"

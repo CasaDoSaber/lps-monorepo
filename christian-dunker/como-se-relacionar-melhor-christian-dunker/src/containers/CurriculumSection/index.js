@@ -8,7 +8,7 @@ const CurriculumSection = () => (
       <S.HeroBlock>
         <S.Hero>
           <Image
-            src="/static/img/curriculumDunker.webp"
+            src="/como-melhorar-relacoes/static/img/curriculumDunker.webp"
             layout="fill"
             objectFit="contain"
           />

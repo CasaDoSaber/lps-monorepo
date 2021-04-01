@@ -12,8 +12,8 @@ export const Icon = styled.img`
     max-width: 30px;
     color: ${theme.colors.mainBg};
     padding-top: ${(props) =>
-      props.src === '/static/img/iconYoutube.svg' ? '2px' : 0};
+      props.src === '/como-melhorar-relacoes/static/img/iconYoutube.svg' ? '2px' : 0};
     padding-left: ${(props) =>
-      props.src === '/static/img/iconFacebook.svg' ? '8px' : 0};
+      props.src === '/como-melhorar-relacoes/static/img/iconFacebook.svg' ? '8px' : 0};
   `}
 `;

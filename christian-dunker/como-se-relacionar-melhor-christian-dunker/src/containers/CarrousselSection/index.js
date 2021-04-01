@@ -62,17 +62,17 @@ const CarrousselSection = () => {
     {
       name: 'Ouvir os Outros',
       href: 'https://www.youtube.com/watch?v=Zo-jk4kVtE8',
-      src: '/static/img/curso-ouvir.webp',
+      src: '/como-melhorar-relacoes/static/img/curso-ouvir.webp',
     },
     {
       name: 'Narcisismo',
       href: 'https://www.youtube.com/watch?v=NSQeGipn5Zw',
-      src: '/static/img/curso-narcisismo.webp',
+      src: '/como-melhorar-relacoes/static/img/curso-narcisismo.webp',
     },
     {
       name: 'Mal Estar',
       href: 'https://www.youtube.com/watch?v=lnMkMG5uif8',
-      src: '/static/img/curso-malestar.webp',
+      src: '/como-melhorar-relacoes/static/img/curso-malestar.webp',
     },
   ];
 
