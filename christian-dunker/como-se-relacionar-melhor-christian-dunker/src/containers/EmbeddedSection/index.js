@@ -8,7 +8,7 @@ const EmbeddedSection = () => (
     <PageLimit>
       <S.EmbeddedWrapper>
         <CountDownTimer />
-        <EmbeddedVideo src='https://player.vimeo.com/video/530951662' />
+        <EmbeddedVideo src="https://player.vimeo.com/video/530951662" />
       </S.EmbeddedWrapper>
     </PageLimit>
   </S.Wrapper>
