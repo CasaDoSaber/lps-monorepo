@@ -58,9 +58,9 @@ export default class NextDocument extends Document {
           <script
             async
             defer
-            crossOrigin="anonymous"
-            src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0"
-            nonce="4OdBpoX0"
+            crossorigin="anonymous"
+            src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0&appId=323248409198817&autoLogAppEvents=1"
+            nonce="n8t0cLNt"
           ></script>
           <Main />
           <NextScript />
