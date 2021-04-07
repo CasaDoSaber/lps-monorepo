@@ -1,7 +1,7 @@
-import React from 'react';
-import Document, { Html, Head, Main, NextScript } from 'next/document';
-import Analytics from 'components/Analytics';
-import { ServerStyleSheet } from 'styled-components';
+import React from "react";
+import Document, { Html, Head, Main, NextScript } from "next/document";
+import Analytics from "components/Analytics";
+import { ServerStyleSheet } from "styled-components";
 
 export default class NextDocument extends Document {
   static async getInitialProps(ctx) {
@@ -54,6 +54,14 @@ export default class NextDocument extends Document {
           {/* End Google Tag Manager (noscript) */}
         </Head>
         <body>
+          <div id="fb-root"></div>
+          <script
+            async
+            defer
+            crossOrigin="anonymous"
+            src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0"
+            nonce="4OdBpoX0"
+          ></script>
           <Main />
           <NextScript />
           {/* <Analytics /> */}
