@@ -54,14 +54,6 @@ export default class NextDocument extends Document {
           {/* End Google Tag Manager (noscript) */}
         </Head>
         <body>
-          <div id="fb-root"></div>
-          <script
-            async
-            defer
-            crossorigin="anonymous"
-            src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0&appId=323248409198817&autoLogAppEvents=1"
-            nonce="n8t0cLNt"
-          ></script>
           <Main />
           <NextScript />
           {/* <Analytics /> */}
