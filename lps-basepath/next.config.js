@@ -11,7 +11,7 @@ module.exports = {
           },
           {
             source: '/como-melhorar-relacoes/:match*',
-            destination: `https://lps-monorepo-como-melhorar-relacoes.vercel-support.app//como-melhorar-relacoes/:match*`,
+            destination: `https://lps-monorepo-como-melhorar-relacoes.vercel-support.app/como-melhorar-relacoes/:match*`,
           }
 
         ]
